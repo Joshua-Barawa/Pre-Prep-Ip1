@@ -99,14 +99,21 @@ h2:hover{
 
 img{
     height: 300px;
-
 }
 
 img:hover{
-    background-color: transparent;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
  .column {
     float: left;
     padding: 10px;
+    border-color: white;
+    height: 400px;
+    max-width: 550px;
+    color:white;
+  }
+
+  .column p:hover{
+      color: rgb(55, 92, 128);
   }
