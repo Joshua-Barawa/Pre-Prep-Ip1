@@ -2,13 +2,13 @@ body{
     margin-top: -23px;
     margin-left: -3px;
     margin-right: -3px;
-    background-image: url(https://e0.365dm.com/21/06/1600x900/skysports-grpahic-graphic-premier-league_5415970.png?20210615153425);
+    background-image: url(https://resources.premierleague.com/photos/2020/10/14/c29e2653-0d5b-4099-a5c8-82e27839bf66/Statement_Graphic_Pink.png?width=930&height=620);
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 h1{
-    color: rgb(233, 237, 240);
+    color: rgb(234, 238, 241);
     text-transform: uppercase;
     font-size: 35px;
     text-align: center;
@@ -17,9 +17,7 @@ h1{
 
 
 .para{
-    margin-top: 0px;
    text-align: center;
-   background-color: rgb(255, 255, 255);
 
 }
 .para p{
@@ -28,12 +26,14 @@ h1{
     font-style: italic;
     padding-left: 150px;
     padding-right: 150px;
-    color: rgb(47, 57, 119);
+    color: rgb(229, 230, 240);
     
 }
 
 span{
-    color: rgb(47, 57, 119);
+    color: rgb(189, 193, 216);
+    text-align: center;
+    padding: 10px;
 }
 
 .btn{
@@ -51,12 +51,19 @@ a:hover{
 h2{
     margin-top: 30px;
     text-align: center;
-    color: rgba(65, 63, 170, 0.945);
-    font-size: 40px;
-    background-color: rgb(255, 255, 255);
+    color: rgba(229, 229, 233, 0.945);
+    font-size: 30px;
     font-family:fantasy;
 }
 
-img{
-    height: 200px;
+.images{
+    margin-left: 100px;
 }
+
+img{
+    height: 300px;
+}
+
+ img{
+     display: inline;
+ }
