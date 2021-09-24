@@ -1,6 +1,7 @@
 body{
-    margin: 60px;
-    background-color: rgb(26, 24, 24);
+    margin-top: -4px;
+    margin-left: -3px;
+    margin-right: -3px;
 }
 
 h1{
@@ -8,4 +9,19 @@ h1{
     text-transform: uppercase;
     font-size: 35px;
     text-align: center;
+}
+
+.intro p{
+    color: rgb(199, 23, 23);
+    font-size: 25px;
+    margin: 36px;
+}
+
+.intro{
+    border: rgb(231, 228, 223) 2px solid;
+    height: 300px;
+    width: 100%;
+    background-image: url(https://e0.365dm.com/21/06/1600x900/skysports-grpahic-graphic-premier-league_5415970.png?20210615153425);
+    background-size: 100vh;
+    background-size: 50vw;
 }
