@@ -42,10 +42,11 @@ h1{
       }
 
 span{
-    color: rgb(236, 229, 229);
+    color: rgb(212, 206, 206);
     position: relative;
     top: -200px;
-    margin-left: 700px;
+    margin-left: 500px;
+    margin-right: 500px;
 }
 
 .btn{
@@ -116,4 +117,16 @@ img:hover{
 
   .column p:hover{
       color: rgb(55, 92, 128);
+  }
+
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+
+    h1{
+        margin-top: 20px;
+    }
   }
