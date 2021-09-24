@@ -2,6 +2,9 @@ body{
     margin-top: -23px;
     margin-left: -3px;
     margin-right: -3px;
+    background-image: url(https://e0.365dm.com/21/06/1600x900/skysports-grpahic-graphic-premier-league_5415970.png?20210615153425);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 h1{
@@ -9,19 +12,14 @@ h1{
     text-transform: uppercase;
     font-size: 35px;
     text-align: center;
+    margin-top: 70px;
 }
 
-.intro{
-    height: 300px;
-    width: 100%;
-    background-image: url(https://e0.365dm.com/21/06/1600x900/skysports-grpahic-graphic-premier-league_5415970.png?20210615153425);
-    background-size: 100vh;
-    background-size: 50vw;
-}
 
 .para{
-    margin-top: -20px;
+    margin-top: 70px;
    text-align: center;
+   
 
 }
 .para p{
@@ -30,7 +28,12 @@ h1{
     font-style: italic;
     padding-left: 150px;
     padding-right: 150px;
+    color: white;
     
+}
+
+span{
+    color: rgb(252, 252, 252);
 }
 
 .btn{
@@ -38,18 +41,21 @@ h1{
     padding: 10px;
     border-radius: 25px 25px;
     text-decoration: none;
-    color: white;
+    color: rgb(241, 241, 241);
 }
 
 a:hover{
-    background-color: rgb(214, 183, 161);
+    background-color: rgb(11, 22, 13);
 }
 
 h2{
     margin-top: 50px;
     text-align: center;
+    color: rgba(65, 63, 170, 0.945);
+    font-size: 40px;
+    background-color: rgb(255, 255, 255);
 }
 
-.row{
-    display: flex;
+img{
+    height: 200px;
 }
