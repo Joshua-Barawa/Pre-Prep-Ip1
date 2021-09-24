@@ -28,7 +28,15 @@ h1{
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
-    padding-left: 120px;
-    padding-right: 120px;
+    padding-left: 150px;
+    padding-right: 150px;
     
+}
+
+.btn{
+    background-color: rgb(51, 150, 189);
+    padding: 10px;
+    border-radius: 25px 25px;
+    text-decoration: none;
+    color: white;
 }
