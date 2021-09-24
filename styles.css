@@ -68,3 +68,23 @@ img{
     float: left;
     padding: 10px;
   }
+
+  .teams{
+    margin-left: 150px;
+  }
+
+  h3{
+      color: rgb(134, 180, 132);
+  }
+
+  li{
+      color: rgb(244, 245, 247);
+  }
+
+  .t-lnk{
+      background-color: teal;
+      padding: 5px;
+      text-decoration: none;
+      border-radius: 25px 25px;
+      color: white;
+  }
