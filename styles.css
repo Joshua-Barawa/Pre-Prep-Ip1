@@ -64,6 +64,7 @@ img{
     height: 300px;
 }
 
- img{
-     display: inline;
- }
+ .column {
+    float: left;
+    padding: 10px;
+  }
