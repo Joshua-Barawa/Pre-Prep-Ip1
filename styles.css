@@ -119,14 +119,4 @@ img:hover{
       color: rgb(55, 92, 128);
   }
 
-  @media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
-      display: block;
-      margin-bottom: 20px;
-    }
-
-    h1{
-        margin-top: 20px;
-    }
-  }
+  
